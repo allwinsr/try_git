@@ -4,3 +4,4 @@ added fine
 :)
 :) :) :)
 
+for stash (save changes made in the current index and working dir for later)
